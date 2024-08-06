@@ -1,6 +1,6 @@
 Name: Portfolio
+
 Author: juienDev.co
-Author URI: https://untree.co/
 
 gmail: miclejulien@gmail.com    
 
