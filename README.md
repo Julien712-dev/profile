@@ -1,11 +1,8 @@
-Template Name: Minimal
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
+Name: Portfolio
+Author: juienDev.co
 Author URI: https://untree.co/
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
-
+gmail: miclejulien@gmail.com    
 
 CREDITS
 
